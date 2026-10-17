@@ -1,15 +1,13 @@
-# Homelab Portfolio – Razi Ul Hassan
+# Homelab mit Proxmox VE und OPNsense
 
-In meinem Homelab vertiefe ich Kenntnisse in Systemadministration, Netzwerktechnik und dem Betrieb von IT-Diensten.
+Virtuelle Lab-Umgebung zur praktischen Vertiefung von Systemadministration, Netzwerktechnik und dem Betrieb von IT-Diensten.
 
-## Bisher umgesetzt
+## Umsetzung
 
-- Virtuelle Maschinen mit Proxmox VE eingerichtet.
-- OPNsense als Firewall und Router für das interne Labornetz konfiguriert.
-- Debian mit Docker, Portainer und Docker-Compose-Stacks eingerichtet.
-- Remotezugriff über SSH und Tailscale genutzt.
-- Dienste mit Uptime Kuma überwacht und Ausfallbenachrichtigungen getestet.
-- Systemmetriken mit Prometheus und Node Exporter erfasst und in Grafana dargestellt.
+- Virtuelle Maschinen mit Proxmox VE sowie OPNsense als Firewall und Router eingerichtet.
+- Debian mit Docker, Portainer und Compose-Stacks betrieben.
+- Fernzugriff über SSH und Tailscale genutzt.
+- Verfügbarkeit mit Uptime Kuma und Systemmetriken mit Prometheus, Node Exporter und Grafana überwacht.
 - Automatische VM-Backups und Zwei-Faktor-Authentifizierung für Proxmox eingerichtet.
 
 ## Dokumentation
